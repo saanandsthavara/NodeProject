@@ -1,0 +1,19 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "This is Demo Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saanandsthavara/NodeProject.git"
+  },
+  "author": "Saanand Sthavara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saanandsthavara/NodeProject/issues"
+  },
+  "homepage": "https://github.com/saanandsthavara/NodeProject#readme"
+}
